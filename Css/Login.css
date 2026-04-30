@@ -1,0 +1,155 @@
+:root {
+ --space-xs: 0.25rem;
+ --space-sm: 0.5rem;
+ --space-md: 1rem;
+ --space-lg: 1.5rem;
+ --space-xl: 2rem;
+}
+.section {
+ padding: var(--space-lg); 
+ marginbottom: var(--space-xl);
+} 
+
+/* Base */
+html, body {
+font-size: 16px;
+  height: 100%; /* Ocupa toda a altura da tela */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  display: flex;
+  flex-direction: column; /* Permite empurrar o footer para baixo */
+}
+
+/* HEADER */
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(151, 151, 151);
+  padding: 1rem;
+  flex-wrap: wrap;
+}
+.logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.nav-links li {
+  list-style: none;
+}
+.nav-links a {
+  color: black;
+  text-decoration: none;
+}
+.buscador {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+/* BOTÕES */
+.btn-login {
+  color: #046850;
+  background-color: white;
+  border-radius: 0.5em;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+}
+.btn-login:hover {
+  background-color: #046850;
+  color: white;
+}
+
+/* LOGIN */
+.principal {
+  flex: 1; /* Expande para ocupar espaço entre header e footer */
+  display: flex;
+  background-color: rgb(238, 238, 238);
+  height: 50%;
+  justify-content: center;
+  align-items: center; /* Centraliza verticalmente */
+  padding: 1rem;
+}
+.div-login {
+  background-color: rgb(206, 206, 206);
+  border-radius: 0.5em;
+  padding: 2rem;
+  width: 50%;
+  height: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.div-login input[type="text"],
+.div-login input[type="password"] {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  box-sizing: border-box;
+}
+
+.div-botoes {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.link-cadastro {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+/* FOOTER */
+footer {
+  background-color: rgb(151, 151, 151);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+.rodape {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.btn-outros{
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border-radius: 0.5em;
+  padding: 0.5rem;
+  padding-right: 10%;
+  border: none;
+  cursor: pointer;
+}
+
+/* RESPONSIVIDADE */
+@media (max-width: 480px) {
+    .div-login {
+  height: auto;
+}
+  .div-botoes {
+    justify-content: space-around;
+    flex-direction: column;
+}
+.nav-links {
+    padding: 0rem;
+  }
+}
+@media (max-width: 767px) {
+  .nav-bar {
+    flex-direction: row;   /* mantém em linha */
+    justify-content: center; /* centraliza tudo */
+    flex-wrap: wrap;
+  }
+}
