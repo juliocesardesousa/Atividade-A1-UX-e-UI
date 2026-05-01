@@ -82,10 +82,9 @@ font-size: 16px;
 
 /* LOGIN */
 .principal {
-  flex: 1; /* Expande para ocupar espaço entre header e footer */
   display: flex;
   background-color: rgb(238, 238, 238);
-  height: 50%;
+  height: 100%;
   justify-content: center;
   align-items: center; /* Centraliza verticalmente */
   padding: 1rem;
@@ -104,7 +103,7 @@ font-size: 16px;
 .div-cadastro input[type="text"],
 .div-cadastro input[type="password"] {
   width: 100%;
-  padding: 0.75rem;
+  padding: 0.5rem;
   font-size: 1rem;
   border: 1px solid #ccc;
   border-radius: 0.25rem;
@@ -156,15 +155,8 @@ footer {
 
 @media (min-width: 480px){
     .div-cadastro {
-        height: 80%;
-    }
+        height: 90%;
+    } 
 
 }
 
-@media (max-width: 767px) {
-  .nav-bar {
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-  } 
-}
