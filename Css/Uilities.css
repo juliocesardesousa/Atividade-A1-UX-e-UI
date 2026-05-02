@@ -1,13 +1,46 @@
+/* Variáveis de espaçamento */
+:root {
+ --space-xs: 0.25rem;
+ --space-sm: 0.5rem;
+ --space-md: 1rem;
+ --space-lg: 1.5rem;
+ --space-xl: 2rem;
+}
+.section {
+ padding: var(--space-lg); 
+ margin-bottom: var(--space-xl);
+} 
+
+/* Base */
+html, body {
+font-size: 16px;
+  height: 100%; /* Ocupa toda a altura da tela */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  display: flex;
+  flex-direction: column; /* Permite empurrar o footer para baixo */
+}
+
 /* BOTÕES  PADRONIZADOS*/
 .btn {
   color: #046850;
   background-color: white;
   border-radius: 0.5em;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem;
   border: none;
   cursor: pointer;
 }
 .btn:hover {
   background-color: #046850;
   color: white;
+}
+/* NAV BAR SEM ESTILO */
+nav ul{ /*Tira o formato de lista*/
+  font-style: none;
+}
+
+nav ul a {
+  color: #000;
+  text-decoration: none;
 }
