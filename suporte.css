@@ -82,12 +82,20 @@
 }
 
 @media (min-width: 767px) {
-.div-comentarios {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: 1fr;
-        gap: 1rem;
-    }
+.div-comentarios{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    height: 100%;
+    padding: 0.5rem;
+}
+.div-comentarios .div-acoes{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+
+
+}
 .header-valores {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
