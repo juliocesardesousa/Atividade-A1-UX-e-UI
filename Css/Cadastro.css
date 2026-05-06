@@ -1,3 +1,4 @@
+
 :root {
  --space-xs: 0.25rem;
  --space-sm: 0.5rem;
@@ -167,4 +168,27 @@ footer {
     justify-content: space-around;
     align-items: center;
   } 
+}
+
+:root {
+ --space-xs: 0.25rem;
+ --space-sm: 0.5rem;
+ --space-md: 1rem;
+ --space-lg: 1.5rem;
+ --space-xl: 2rem;
+}
+.section {
+ padding: var(--space-lg); 
+ marginbottom: var(--space-xl);
+} 
+
+/* Base */
+html, body {
+font-size: 16px;
+  height: 100%; /* Ocupa toda a altura da tela */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  display: flex;
+  flex-direction: column; /* Permite empurrar o footer para baixo */
 }

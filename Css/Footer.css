@@ -1,0 +1,27 @@
+/* FOOTER */
+footer {
+  background-color: rgb(151, 151, 151);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+.rodape {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.btn-outros{
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border-radius: 0.5em;
+  padding: 0.5rem;
+  padding-right: 10%;
+  border: none;
+  cursor: pointer;
+}
+@media (max-width: 480px) {
+  .nav-links {
+    padding: 0rem;
+  }
+}

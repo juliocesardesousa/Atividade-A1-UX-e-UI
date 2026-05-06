@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
  --space-xs: 0.25rem;
  --space-sm: 0.5rem;
@@ -129,3 +130,63 @@ footer {
     flex-wrap: wrap;
   }
 }
+=======
+
+/*MAIN*/
+.principal {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.div-resultado{
+  display: flex;
+  flex-direction: column;  
+  width: 80%;
+  gap: 0.5rem;
+}
+.div-resultado div {
+  border: 1px solid black;
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+.div-img {
+  height: 10em;
+  grid-area: img;
+  background-color: rgb(201, 201, 201);
+  border-radius: 1rem;
+}
+.h3-titulo {
+  grid-area: titulo;
+}
+.p-texto {
+  grid-area: texto;
+}
+.grid-pesquisa {
+  display: grid;
+  height: 40%;
+  width: 100%;
+	grid-template-areas:
+		"img titulo titulo"
+		"img texto texto"
+	;
+  gap: 0.5rem;
+}
+
+@media (max-width: 480px) {
+  .div-img{
+    width: 10em;
+  }
+}
+@media (max-width: 767px) {
+  .div-img{
+    width: 10em;
+  }
+}
+@media (max-width: 1023px) {
+  .div-img{
+    width: 10em;
+  }
+}
+>>>>>>> b960632934fd59b1cb621b8baeba7ae83d945228
