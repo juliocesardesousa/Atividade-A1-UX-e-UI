@@ -1,0 +1,40 @@
+/* MAIN  */
+.principal{
+    padding: 0.5rem;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    height: 100%;
+    gap: 0.5rem;
+}
+.principal h2{
+    padding-left: 1rem;
+    grid-column: 1 / -1;
+    
+}
+.principal div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 0.5rem; 
+    padding: 1rem;
+}
+.div-destaque-img{
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    width: 70%;
+    height: 100%; 
+}
+@media (min-width: 767px) {
+.div-destaque-img{
+    height: 7rem; 
+}
+.principal{
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+}
