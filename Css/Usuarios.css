@@ -59,6 +59,7 @@
 
 .section-comentarios{
     grid-area: section-post;
+    height: auto;
     display: grid;
     align-items: flex-start;
     gap: 1rem;

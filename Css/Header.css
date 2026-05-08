@@ -3,11 +3,12 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: rgb(151, 151, 151);
+  background-color: black;
   padding: 1rem;
   flex-wrap: wrap;
 }
 .logo {
+  color: white;
   font-weight: bold;
   font-size: 1.5rem;
 }
@@ -22,7 +23,7 @@
   list-style: none;
 }
 .nav-links a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 .buscador { 
