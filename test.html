@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .bordar {
+            display: flex;
+            /* flex-direction: column; */
+            border: 12px solid red;
+            gap: 5px;
+            padding: 15px;
+            /* align-items: center; */
+            justify-content: center;
+        }
+
+        .tama1 {
+            background-color: blueviolet;
+            width: 50%;
+        }
+
+        .tama2 {
+            background-color: bisque;
+            width: 100px;
+        }
+
+        .alinhamento {
+            /* flex: 25%; */
+            border: 2px solid black;
+            /* align-items: center; */
+            /* justify-content: center; */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="bordar">
+        <div class="alinhamento tama1">
+            <p>asdasdfas</p>
+            <div>
+                <h1>sdfasdfasdf</h1>
+            </div>
+        </div>
+        <div class="alinhamento tama2">
+            <p>fffffffffffff</p>
+            <div>
+                <h1>ggggg</h1>
+            </div>
+        </div>
+    </div>
+
+    <div style="display: flex; gap: 10px;">
+        <div style="flex: 1; background-color: lightblue;">Coluna 1</div>
+        <div style="flex: 1; background-color: lightgreen;">Coluna 2</div>
+    </div>
+</body>
+
+</html>
