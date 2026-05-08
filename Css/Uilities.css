@@ -13,7 +13,8 @@
 
 /* Base */
 html, body {
-font-size: 16px;
+  margin: 0px;
+  font-size: 16px;
   height: 100%; /* Ocupa toda a altura da tela */
   margin: 0;
   font-family: Arial, sans-serif;
@@ -21,6 +22,7 @@ font-size: 16px;
   display: flex;
   flex-direction: column; /* Permite empurrar o footer para baixo */
 }
+
 
 /* BOTÕES  PADRONIZADOS*/
 .btn {
@@ -44,3 +46,4 @@ nav ul a {
   color: #000;
   text-decoration: none;
 }
+
