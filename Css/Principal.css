@@ -1,19 +1,140 @@
-.principal{
+/* Ajustes da parte superior do site "Navegue por tópicos de interesse" */
+.principal {
     height: auto;
-    display: flex;
-    flex-direction: column;    
-}
-.div-titulo-home{
     display: grid;
-    grid-template-columns: 1fr auto;
+    flex-direction: column;
+    padding: 1rem;
 }
-.div-img-titulo{
+
+.section-titulo-main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+
+.div-img-titulo {
     border: 1px solid black;
-    width: 5rem;
-    height: 5rem;
+    width: 90%;
+    height: 50%;
+    padding: 0.5rem;
 }
-.div-btn-titulo{
+
+.div-btn-titulo {
     display: flex;
     justify-content: start;
     gap: 1rem;
+}
+
+/* Ajustes da 2° parte "Categorias populares" */
+.section-categorias-populares {
+    display: grid;
+    grid-template-columns: 1fr;
+    flex-direction: column;
+    padding: 0.5rem;
+
+}
+
+.div-categorias {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    font-size: 0.75rem;
+}
+
+.div-categorias div {
+    border: 1px solid black;
+    width: 8rem;
+    height: 6rem;
+}
+
+.div-todas-categorias {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 1rem;
+    gap: 1rem;
+}
+
+/* Ajustes do  post*/
+.div-img-post {
+    grid-area: img;
+    border: 1px solid black;
+    border-radius: 1rem;
+    width: 8rem;
+
+}
+
+.p-texto-cima {
+    grid-area: texto-cima;
+    font-size: 0.75rem;
+}
+
+.h3-titulo-post {
+    grid-area: titulo-post;
+    font-size: 1rem;
+}
+
+.p-texto-baixo {
+    grid-area: texto-baixo;
+    font-size: 0.75rem;
+}
+
+.primeiro-post {
+    display: grid;
+    grid-area: primeiro;
+    padding: 1rem;
+
+    grid-template-areas:
+        "img texto-cima"
+        "img titulo-post"
+        "img texto-baixo"
+    ;
+}
+
+.segundo-post {
+    display: grid;
+    grid-area: segundo;
+    padding: 1rem;
+    justify-content: start;
+    gap: 1rem;
+    grid-template-areas:
+        "img texto-cima"
+        "img titulo-post"
+        "img texto-baixo"
+    ;
+}
+
+.nav {
+    grid-area: navegacao;
+    gap: 1rem;
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+
+.h3-titulo {
+    grid-area: titulo;
+}
+
+.section-postagens-destaque {
+    display: grid;
+    grid-template-areas:
+        "titulo navegacao"
+        "primeiro navegacao"
+        "segundo navegacao"
+    ;
+}
+
+@media (min-width: 767px) {
+    .div-categorias div {
+        width: 100%;
+        height: 6rem;
+    }
+
+    .div-todas-categorias {
+        grid-template-columns: repeat(5, 1fr);
+    }
+    .div-todas-categorias button{
+        padding: 1rem;
+    }
+
 }
