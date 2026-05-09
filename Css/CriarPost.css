@@ -1,5 +1,6 @@
 /* Organizando as áreas da página */
 .principal{
+    height: auto;
     display: grid;
     padding: 0.5rem;
     grid-template-areas: 
@@ -11,27 +12,47 @@
     grid-area: nav-menu;
     padding: 1rem;
 }
-.header-valores{
-    grid-area: header-valores;
-    padding: 0.5rem;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    box-shadow: 0 1px 2px black;
-}
-.section-post{
+
+section{
+    box-shadow: 0 2px 4px black;
     grid-area: section-post;
+    height: auto;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 1rem;
-    padding: 0.5rem;
-    box-shadow: 0 2px 4px black;
-}
-
-section{
     padding: 1rem;
+}
+.div-inputs{
+    display: flex;
+}
+.input-categoria{
+    width: 8em;
+    padding: 0.5rem;
+}
+.input-imagem{
+    width: 7rem;
+    padding: 0.5rem;
 }
 .input-titulo{
     width: 90%; /* largura da tela */
     padding: 0.5rem; /* 1rem para o input do título */
+}
+.input-conteudo{
+    width: 90%;
+    height: 10rem;
+    padding: 0.5rem;
+}
+@media (min-width: 767px) {
+    .div-inputs{
+        width: 95%;
+    }
+    .input-categoria{
+        width: 50%;
+        padding: 0.5rem;
+    }   
+    .input-imagem{
+        width: 50%;
+        padding: 0.5rem;
+    }
 }

@@ -1,1 +1,5 @@
 Assinatura, tela ok
+Busca ok   
+Cadastro ok
+Categorias ok
+categoria techno ok

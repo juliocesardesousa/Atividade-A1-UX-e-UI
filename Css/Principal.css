@@ -1,0 +1,19 @@
+.principal{
+    height: auto;
+    display: flex;
+    flex-direction: column;    
+}
+.div-titulo-home{
+    display: grid;
+    grid-template-columns: 1fr auto;
+}
+.div-img-titulo{
+    border: 1px solid black;
+    width: 5rem;
+    height: 5rem;
+}
+.div-btn-titulo{
+    display: flex;
+    justify-content: start;
+    gap: 1rem;
+}
