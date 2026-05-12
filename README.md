@@ -265,12 +265,17 @@ Além disso, para ter certeza prática, eu usei a DevTools do Edge. Com ela, con
   <img src= "/projeto-interface/Assets/DevTool.png" alt= "Imagem da devTool utilzada">
 </p>
 
-Cada imagem utilizada possui um atributo alt que descreve seu conteúdo, garantindo que leitores de tela e outras tecnologias assistivas possam transmitir corretamente a informação para usuários com necessidades de acessibilidade.
+Cada elemento que necessita de imagem possui um atributo alt que descreve seu conteúdo, garantindo que leitores de tela e outras tecnologias assistivas possam transmitir corretamente a informação para usuários com necessidades de acessibilidade, como no exemplo.
 
 <p align="center">
   <img src="/projeto-interface/Assets/ImagemExemplo2.png" alt="Imagem de exemplo">
 </p>
 
+Cada elemento interativo que não possui texto visível recebeu um atributo aria-label, garantindo que leitores de tela e outras tecnologias assistivas possam identificar corretamente sua função e transmitir essa informação para usuários com necessidades de acessibilidade como no exemplo.
+
+<p align="center">
+  <img src="/projeto-interface/Assets/ExemploDeArialLabel.png" alt="Imagem de exemplo">
+</p>
 <!-- colocar a imagem do alt e o arial-label -->
 
 # Autor
