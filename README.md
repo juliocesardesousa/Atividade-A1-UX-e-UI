@@ -23,13 +23,13 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 <p align= "center">
   
 **480px**<br>
-<img src="projeto-inteface/Assets/Telas/Tela 01/Tela01-Newsletter-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 01/Tela01-Newsletter-480-1.png" width="200">
 
 **767px**<br>
-<img src="projeto-inteface/Assets/Telas/Tela 01/Tela01-Newsletter-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 01/Tela01-Newsletter-767-1.png" width="300">
 
 **1023px**<br>
-<img src="projeto-inteface/Assets/Telas/Tela 01/Tela01-Newsletter-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 01/Tela01-Newsletter-1023-1.png" width="400">
 
 </p>
 
@@ -37,16 +37,16 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 02/Tela02-Busca-480-1.png" width="200">
-<img src="Assets/Telas/Tela 02/Tela02-Busca-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 02/Tela02-Busca-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 02/Tela02-Busca-480-2.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 02/Tela02-Busca-767-1.png" width="300">
-<img src="Assets/Telas/Tela 02/Tela02-Busca-767-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 02/Tela02-Busca-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 02/Tela02-Busca-767-2.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 02/Tela02-Busca-1023-1.png" width="400">
-<img src="Assets/Telas/Tela 02/Tela02-Busca-1023-2.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 02/Tela02-Busca-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 02/Tela02-Busca-1023-2.png" width="400">
 
 </p>
 
@@ -54,13 +54,13 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 03/Tela03-Cadastro-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 03/Tela03-Cadastro-480-1.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 03/Tela03-Cadastro-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 03/Tela03-Cadastro-767-1.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 03/Tela03-Cadastro-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 03/Tela03-Cadastro-1023-1.png" width="400">
 
 </p>
 
@@ -68,16 +68,16 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 04/Tela04-Categorias-480-1.png" width="200">
-<img src="Assets/Telas/Tela 04/Tela04-Categorias-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 04/Tela04-Categorias-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 04/Tela04-Categorias-480-2.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 04/Tela04-Categorias-767-1.png" width="300">
-<img src="Assets/Telas/Tela 04/Tela04-Categorias-767-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 04/Tela04-Categorias-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 04/Tela04-Categorias-767-2.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 04/Tela04-Categorias-1023-1.png" width="400">
-<img src="Assets/Telas/Tela 04/Tela04-Categorias-1023-2.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 04/Tela04-Categorias-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 04/Tela04-Categorias-1023-2.png" width="400">
 
 </p>
 
@@ -85,16 +85,16 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 05/Tela05-CategoriasTechno-480-1.png" width="200">
-<img src="Assets/Telas/Tela 05/Tela05-CategoriasTechno-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 05/Tela05-CategoriasTechno-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 05/Tela05-CategoriasTechno-480-2.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 05/Tela05-CategoriasTechno-767-1.png" width="300">
-<img src="Assets/Telas/Tela 05/Tela05-CategoriasTechno-767-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 05/Tela05-CategoriasTechno-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 05/Tela05-CategoriasTechno-767-2.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 05/Tela05-CategoriasTechno-1023-1.png" width="400">
-<img src="Assets/Telas/Tela 05/Tela05-CategoriasTechno-1023-2.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 05/Tela05-CategoriasTechno-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 05/Tela05-CategoriasTechno-1023-2.png" width="400">
 
 </p>
 
@@ -102,67 +102,64 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 06/Tela06-CriarPost-480-1.png" width="200">
-<img src="Assets/Telas/Tela 06/Tela06-CriarPost-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 06/Tela06-CriarPost-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 06/Tela06-CriarPost-480-2.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 06/Tela06-CriarPost-767-1.png" width="300">
-<img src="Assets/Telas/Tela 06/Tela06-CriarPost-767-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 06/Tela06-CriarPost-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 06/Tela06-CriarPost-767-2.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 06/Tela06-CriarPost-1023-1.png" width="400">
-<img src="Assets/Telas/Tela 06/Tela06-CriarPost-1023-1 (3).png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 06/Tela06-CriarPost-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 06/Tela06-CriarPost-1023-1 (3).png" width="400">
+
 </p>
 
 ## Tela 07 - Destaques
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 07/Tela07-Destaques-480-1.png" width="200">
-<img src="Assets/Telas/Tela 07/Tela07-Destaques-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 07/Tela07-Destaques-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 07/Tela07-Destaques-480-2.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 07/Tela07-Destaques-767-1.png" width="300">
-<img src="Assets/Telas/Tela 07/Tela07-Destaques-767-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 07/Tela07-Destaques-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 07/Tela07-Destaques-767-2.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 07/Tela07-Destaques-1023-1.png" width="400">
-<img src="Assets/Telas/Tela 07/Tela07-Destaques-1023-2.png" width="400">
-  
+<img src="/projeto-interface/Assets/Telas/Tela 07/Tela07-Destaques-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 07/Tela07-Destaques-1023-2.png" width="400">
+
 </p>
 
 ## Tela 08 - Fila de Comentários
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 08/Tela08-FilaDeComentarios-480-1.png" width="200">
-<img src="Assets/Telas/Tela 08/Tela08-FilaDeComentarios-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 08/Tela08-FilaDeComentarios-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 08/Tela08-FilaDeComentarios-480-2.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 08/Tela08-FilaDeComentarios-767-1.png" width="300">
-<img src="Assets/Telas/Tela 08/Tela08-FilaDeComentarios-767-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 08/Tela08-FilaDeComentarios-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 08/Tela08-FilaDeComentarios-767-2.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 08/Tela08-FilaDeComentarios-1023-1.png" width="400">
-<img src="Assets/Telas/Tela 08/Tela08-FilaDeComentarios-1023-2.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 08/Tela08-FilaDeComentarios-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 08/Tela08-FilaDeComentarios-1023-2.png" width="400">
 
 </p>
-
 
 ## Tela 09 - Login
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 09/Tela09-Login-480-1.png" width="200">
-
+<img src="/projeto-interface/Assets/Telas/Tela 09/Tela09-Login-480-1.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 09/Tela09-Login-767-1.png" width="300">
-
+<img src="/projeto-interface/Assets/Telas/Tela 09/Tela09-Login-767-1.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 09/Tela09-Login-1023-1.png" width="400">
-
+<img src="/projeto-interface/Assets/Telas/Tela 09/Tela09-Login-1023-1.png" width="400">
 
 </p>
 
@@ -170,15 +167,15 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 10/Tela10-Post-480-1.png" width="200">
-<img src="Assets/Telas/Tela 10/Tela10-Post-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 10/Tela10-Post-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 10/Tela10-Post-480-2.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 10/Tela10-Post-763-1.png" width="300">
-<img src="Assets/Telas/Tela 10/Tela10-Post-763-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 10/Tela10-Post-763-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 10/Tela10-Post-763-2.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 10/Tela10-Post-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 10/Tela10-Post-1023-1.png" width="400">
 
 </p>
 
@@ -186,15 +183,15 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 12/Tela12-Usuarios-480-1.png" width="200">
-<img src="Assets/Telas/Tela 12/Tela12-Usuarios-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 12/Tela12-Usuarios-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 12/Tela12-Usuarios-480-2.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 12/Tela12-Usuarios-767-1.png" width="300">
-<img src="Assets/Telas/Tela 12/Tela12-Usuarios-767-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 12/Tela12-Usuarios-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 12/Tela12-Usuarios-767-2.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 12/Tela12-Usuarios-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 12/Tela12-Usuarios-1023-1.png" width="400">
 
 </p>
 
@@ -203,16 +200,33 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 <p align="center">
 
 **480px**<br>
-<img src="Assets/Telas/Tela 13/Tela13-Principal-480-1.png" width="200">
-<img src="Assets/Telas/Tela 13/Tela13-Principal-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-480-2.png" width="200">
 
 **767px**<br>
-<img src="Assets/Telas/Tela 13/Tela13-Principal-767-1.png" width="300">
-<img src="Assets/Telas/Tela 13/Tela13-Principal-767-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-767-2.png" width="300">
 
 **1023px**<br>
-<img src="Assets/Telas/Tela 13/Tela13-Principal-1023-1.png" width="400">
-<img src="Assets/Telas/Tela 13/Tela13-Principal-1023-2.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-1023-2.png" width="400">
+
+</p>
+
+## Tela 14 - Tela de Revisão 
+<p align="center">
+
+**480px**<br>
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-480-2.png" width="200">
+
+**767px**<br>
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-767-2.png" width="300">
+
+**1023px**<br>
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-1023-2.png" width="400">
 
 </p>
 
