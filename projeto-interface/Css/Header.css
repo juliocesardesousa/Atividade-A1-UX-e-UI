@@ -1,0 +1,40 @@
+/* HEADER */
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  padding: 1rem;
+  flex-wrap: wrap;
+}
+.logo {
+  color: white;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.nav-links li {
+  list-style: none;
+}
+.nav-links a {
+  color: white;
+  text-decoration: none;
+}
+.buscador { 
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+@media (max-width: 767px) {
+  .nav-bar {
+    flex-direction: row;   /* mantém em linha */
+    justify-content: center; /* centraliza tudo */
+    flex-wrap: wrap;
+  }
+}
