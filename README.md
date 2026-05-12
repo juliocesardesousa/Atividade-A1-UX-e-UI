@@ -247,9 +247,9 @@ Outro ponto importante foi a responsividade. Eu defini breakpoints estratégicos
 Toda a raiz do meu projeto parte de uma largura mínima de 480px, que representa celulares pequenos. A partir daí, quando a tela aumenta, eu aplico o breakpoint seja ele de 767px ou 1023px, que já cobre tablets, celulares maiores e notebooks/desktops. Essa lógica me permite ir adicionando elementos, ajustando grids e expandindo espaços conforme os exemplos:
 
 <p align= "center">
-<img src="/projeto-interface/Assets/ImagemExemplo.png" alt="Imagem de exemplo">
-<img src="/projeto-interface/Assets/ImagemExemplo1.png" alt="Imagem de exemplo">
-<img src="/projeto-interface/Assets/ImagemExemplo2.png" alt="Imagem de exemplo">
+  <img src="/projeto-interface/Assets/ImagemExemplo.png" alt="Imagem de exemplo">
+  <img src="/projeto-interface/Assets/breackpoint1.png" alt="Imagem de exemplo">
+  <img src="/projeto-interface/Assets/breackpoint2.png" alt="Imagem de exemplo">
 </p>
 
 <!-- colocar foto do breakpoint 767px e 1023px -->
@@ -263,6 +263,12 @@ Além disso, para ter certeza prática, eu usei a DevTools do Edge. Com ela, con
 <p align="center">
   <img src= "/projeto-interface/Assets/SiegeMedia.png" alt= "Imagem do site utilizado">
   <img src= "/projeto-interface/Assets/DevTool.png" alt= "Imagem da devTool utilzada">
+</p>
+
+Cada imagem utilizada possui um atributo alt que descreve seu conteúdo, garantindo que leitores de tela e outras tecnologias assistivas possam transmitir corretamente a informação para usuários com necessidades de acessibilidade.
+
+<p align="center">
+  <img src="/projeto-interface/Assets/ImagemExemplo2.png" alt="Imagem de exemplo">
 </p>
 
 <!-- colocar a imagem do alt e o arial-label -->
