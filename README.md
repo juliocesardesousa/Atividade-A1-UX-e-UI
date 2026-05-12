@@ -213,20 +213,20 @@ Um conjunto de arquivos com responsabilidade dividida conforme o material de aul
 
 </p>
 
-## Tela 14 - Tela de Revisão 
+## Tela 14 - Fila de Revisão 
 <p align="center">
 
 **480px**<br>
-<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-480-1.png" width="200">
-<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-480-2.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 14/Tela14-FilaDeRevisao-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 14/Tela14-FilaDeRevisao-480-2.png" width="200">
 
 **767px**<br>
-<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-767-1.png" width="300">
-<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-767-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 14/Tela14-FilaDeRevisao-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 14/Tela14-FilaDeRevisao-767-2.png" width="300">
 
 **1023px**<br>
-<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-1023-1.png" width="400">
-<img src="/projeto-interface/Assets/Telas/Tela 13/Tela13-Principal-1023-2.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 14/Tela14-FilaDeRevisao-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 14/Tela14-FilaDeRevisao-1023-2.png" width="400">
 
 </p>
 
