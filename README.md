@@ -1,8 +1,7 @@
 # Atividade de UX e UI
 
 # Sobre o Projeto
-Construção de Interfaces em HTML e CSS a partir de Imagens.  
-Um conjunto de arquivos com responsabilidade dividida conforme o material de aula.
+O projeto consiste na construção de interfaces em HTML e CSS a partir de imagens estáticas, transformando os layouts visuais em páginas funcionais. A estrutura foi organizada em arquivos separados, cada um com responsabilidades específicas, conforme o material de aula.
 
 # Índice/Sumário
 * [Sobre](#sobre-o-projeto)
