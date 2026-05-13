@@ -1,6 +1,6 @@
 /* Organizando as áreas da página */
 .principal{
-    height: auto;
+    height: 100%;
     display: grid;
     padding: 0.5rem;
     grid-template-areas: 
@@ -16,7 +16,7 @@
 section{
     box-shadow: 0 2px 4px black;
     grid-area: section-post;
-    height: auto;
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
