@@ -146,7 +146,8 @@ O projeto consiste na construção de interfaces em HTML e CSS a partir de image
 
 </p>
 
-## Tela 09 - Login
+
+## Tela 9 - Login
 <p align="center">
 
 **480px**<br>
@@ -176,6 +177,22 @@ O projeto consiste na construção de interfaces em HTML e CSS a partir de image
 
 </p>
 
+## Tela 11 - Postagens
+<p align="center">
+
+**480px**<br>
+<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-480-1.png" width="200">
+<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-480-2.png" width="200">
+
+**767px**<br>
+<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-763-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-763-2.png" width="300">
+
+**1023px**<br>
+<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-1023-1.png" width="400">
+<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-1023-2 (2).png" width="400">
+
+</p>
 ## Tela 12 - Usuários
 <p align="center">
 
@@ -191,7 +208,6 @@ O projeto consiste na construção de interfaces em HTML e CSS a partir de image
 <img src="/projeto-interface/Assets/Telas/Tela 12/Tela12-Usuarios-1023-1.png" width="400">
 
 </p>
-
 
 ## Tela 13 - Principal
 <p align="center">
@@ -262,11 +278,6 @@ Além disso, para ter certeza prática, eu usei a DevTools do Edge. Com ela, con
   <img src= "/projeto-interface/Assets/DevTool.png" alt= "Imagem da devTool utilzada">
 </p>
 
-Cada elemento que necessita de imagem possui um atributo alt que descreve seu conteúdo, garantindo que leitores de tela e outras tecnologias assistivas possam transmitir corretamente a informação para usuários com necessidades de acessibilidade, como no exemplo.
-
-<p align="center">
-  <img src="/projeto-interface/Assets/ImagemExemplo2.png" alt="Imagem de exemplo">
-</p>
 
 Cada elemento interativo que não possui texto visível recebeu um atributo aria-label, garantindo que leitores de tela e outras tecnologias assistivas possam identificar corretamente sua função e transmitir essa informação para usuários com necessidades de acessibilidade como no exemplo.
 
