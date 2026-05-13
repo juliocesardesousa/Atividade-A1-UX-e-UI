@@ -1,6 +1,7 @@
 /* MAIN  */
 .principal{
     display: grid;
+    height: 100%;
     padding: 0.5rem;
     grid-template-areas: 
     "nav-menu header-valores"   
