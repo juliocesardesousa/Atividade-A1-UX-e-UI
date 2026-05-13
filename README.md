@@ -110,8 +110,6 @@ O projeto consiste na construção de interfaces em HTML e CSS a partir de image
 
 **1023px**<br>
 <img src="/projeto-interface/Assets/Telas/Tela 06/Tela06-CriarPost-1023-1.png" width="400">
-<img src="/projeto-interface/Assets/Telas/Tela 06/Tela06-CriarPost-1023-1 (3).png" width="400">
-
 </p>
 
 ## Tela 07 - Destaques
