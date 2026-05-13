@@ -185,14 +185,15 @@ O projeto consiste na construção de interfaces em HTML e CSS a partir de image
 <img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-480-2.png" width="200">
 
 **767px**<br>
-<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-763-1.png" width="300">
-<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-763-2.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-767-1.png" width="300">
+<img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-767-2.png" width="300">
 
 **1023px**<br>
 <img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-1023-1.png" width="400">
 <img src="/projeto-interface/Assets/Telas/Tela 11/Tela11-Postagens-1023-2 (2).png" width="400">
 
 </p>
+
 ## Tela 12 - Usuários
 <p align="center">
 
