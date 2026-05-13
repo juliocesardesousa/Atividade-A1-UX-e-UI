@@ -11,10 +11,10 @@
 .div-login {
   background-color: rgb(206, 206, 206);
   border-radius: 0.5em;
-  padding: 2rem;
-  padding-bottom: 5rem;
+  padding: 1rem;
+  padding-bottom: 1rem;
   width: 80%;
-  height: 100%;
+  height: auto;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
@@ -44,10 +44,9 @@
 
 /* RESPONSIVIDADE */
 
-@media (max-width: 767px) {
+@media (min-width: 767px) {
   .div-login {
-  padding-bottom: 5rem;
-  height: 60%;
+  height: 45%;
   }
   .nav-bar {
     flex-direction: row;   /* mantém em linha */
