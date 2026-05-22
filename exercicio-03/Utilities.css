@@ -1,0 +1,45 @@
+/* Base */
+html, body {
+  margin: 0px;
+  font-size: 16px;
+  height: auto; /* Ocupa toda a altura da tela */
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+}
+.Navbar a{
+    color: white;
+    list-style: none;
+    text-decoration: none; 
+}
+.Navbar li{
+    background-color: rgb(5, 5, 161);
+    list-style: none;
+    text-decoration: none; 
+    padding-top: 1rem;
+}
+
+
+/* layout principal da tela */
+.Navbar{
+    grid-area: Navbar;
+    background-color: rgb(5, 5, 161);
+    padding: 1rem;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+
+}
+.Header-superior{
+    grid-area: Header-superior;
+}
+.main-projetos{
+    grid-area: main-projetos;
+}
+
+body{
+    display: grid;
+    grid-template-areas: 
+    "Navbar Header-superior"
+    "Navbar main-projetos"
+    ;
+}

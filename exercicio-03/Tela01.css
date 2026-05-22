@@ -1,0 +1,80 @@
+.Header-superior{
+    height: auto;
+    width: 1fr;
+}
+.section-plataforma{
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    border-color: blueviolet;
+}
+
+.main-projetos{
+    height: auto;
+    justify-content: center;
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+}
+.Header-projetos{
+    display: flex;
+    flex-direction: column;
+}
+.Div-alinhador{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: end;
+    align-items: center;
+}
+.Div-alinhador input{
+    margin: 1rem;
+    padding: 0.5rem;
+    width: 50%;
+    height: 1rem;
+}
+
+.Div-btns-projetos{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+    height: 1rem;
+}
+.Btn{
+    width: 100%;
+    padding: 0.5rem;
+}
+.div-colunas-resultados{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: auto;
+}
+
+
+.section-analise{
+    padding: 1rem;
+}
+.section-resultados{
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin: 1rem;
+}
+.div-alinhamento-resultados{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+.div-ods{
+    justify-items: center;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    width: 10rem;
+
+}
